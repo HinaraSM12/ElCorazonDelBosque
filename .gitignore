@@ -1,0 +1,100 @@
+# --- Unity (directorios regenerables)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Cache/Artefactos específicos
+Artifacts/
+ScriptAssemblies/
+ShaderCache/
+CrashReports/
+SysInfo.txt
+
+# Asset Store Tools
+Assets/AssetStoreTools*
+
+# --- IDE/OS
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# VSCode (descarta config local; quita si quieres compartir settings)
+.vscode/
+
+# SO
+.DS_Store
+**/.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Paquetes / Exportaciones
+*.unitypackage
+
+# --- Plataformas (builds/artefactos)
+*.apk
+*.aab
+*.obb
+*.ipa
+*.app
+*.exe
+*.dll
+*.dylib
+*.so
+
+# --- Android/Gradle
+.gradle/
+.gradle/**
+**/gradle-wrapper.jar
+**/gradlew
+**/gradlew.bat
+**/local.properties
+**/.gradle/
+**/build/
+
+# --- iOS/Xcode
+Pods/
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+
+# --- TextMesh Pro generado
+Assets/TextMesh Pro/Resources/Line Breaking Followed Characters.txt
+Assets/TextMesh Pro/Resources/Line Breaking Leading Characters.txt
+
+# --- Addressables (archivos temporales)
+Assets/AddressableAssetsData/*/Windows/*
+Assets/AddressableAssetsData/*/Android/*
+Assets/AddressableAssetsData/*/iOS/*
+
+# --- Colab/Plastic/Versionado (si no usas)
+.collab/
+PlasticSCM/
+
+# --- Otros temporales
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# --- Crashlytics/Firebase (si aplica)
+fabric.properties
+app/google-services.json
+GoogleService-Info.plist
