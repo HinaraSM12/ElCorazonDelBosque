@@ -156,6 +156,3 @@ Demo inspirada en **“Gus & Palomino: El Corazón del Bosque”**: plataformas 
 * Código y diseño: Hinara Pastora Sánchez Mata.
 * Licencia del repo: *MIT / CC-BY /*.
 
----
-
-> ¿Quieres que agregue un **badge de build**, un **.pptx** de entrega o plantillas de **issue**/ **PR** para el repo? Te los armo en un toque.
