@@ -152,7 +152,7 @@ Demo inspirada en **“Gus & Palomino: El Corazón del Bosque”**: plataformas 
 ## 📜 Licencia / Créditos
 
 * Starter Assets – Third Person Controller (Unity).
-* SFX/Música: [*fuente”*](https://mp3cut.net/es/).
+* SFX/Música: [*fuente*](https://mp3cut.net/es/).
 * Código y diseño: Hinara Pastora Sánchez Mata.
 * Licencia del repo: *MIT / CC-BY /*.
 
